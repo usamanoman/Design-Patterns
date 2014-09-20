@@ -1,0 +1,6 @@
+c:\users\unknown\documents\visual studio 2012\Projects\ChocolateBoilerSingletonExample\ChocolateBoilerSingletonExample\bin\Debug\ChocolateBoilerSingletonExample.exe.config
+c:\users\unknown\documents\visual studio 2012\Projects\ChocolateBoilerSingletonExample\ChocolateBoilerSingletonExample\bin\Debug\ChocolateBoilerSingletonExample.exe
+c:\users\unknown\documents\visual studio 2012\Projects\ChocolateBoilerSingletonExample\ChocolateBoilerSingletonExample\bin\Debug\ChocolateBoilerSingletonExample.pdb
+c:\users\unknown\documents\visual studio 2012\Projects\ChocolateBoilerSingletonExample\ChocolateBoilerSingletonExample\obj\Debug\ChocolateBoilerSingletonExample.csprojResolveAssemblyReference.cache
+c:\users\unknown\documents\visual studio 2012\Projects\ChocolateBoilerSingletonExample\ChocolateBoilerSingletonExample\obj\Debug\ChocolateBoilerSingletonExample.exe
+c:\users\unknown\documents\visual studio 2012\Projects\ChocolateBoilerSingletonExample\ChocolateBoilerSingletonExample\obj\Debug\ChocolateBoilerSingletonExample.pdb
