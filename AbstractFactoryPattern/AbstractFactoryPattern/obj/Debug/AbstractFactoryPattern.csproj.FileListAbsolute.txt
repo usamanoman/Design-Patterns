@@ -1,1 +1,6 @@
 c:\users\unknown\documents\visual studio 2012\Projects\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
+c:\users\unknown\documents\visual studio 2012\Projects\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+c:\users\unknown\documents\visual studio 2012\Projects\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+c:\users\unknown\documents\visual studio 2012\Projects\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csprojResolveAssemblyReference.cache
+c:\users\unknown\documents\visual studio 2012\Projects\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
+c:\users\unknown\documents\visual studio 2012\Projects\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb

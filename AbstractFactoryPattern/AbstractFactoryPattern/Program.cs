@@ -10,6 +10,8 @@ namespace AbstractFactoryPattern
     {
         static void Main(string[] args)
         {
+            PizzaStore ps = new NYPizzaStore();
+            ps.orderPizza("spice");
         }
     }
 }
