@@ -1,0 +1,1 @@
+c:\users\unknown\documents\visual studio 2012\Projects\ObserverPatternImplementation\ObserverPatternImplementation\bin\Debug\ObserverPatternImplementation.exe.config

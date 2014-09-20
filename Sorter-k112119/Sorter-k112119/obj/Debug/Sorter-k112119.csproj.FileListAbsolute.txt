@@ -1,0 +1,6 @@
+c:\users\unknown\documents\visual studio 2012\Projects\Sorter-k112119\Sorter-k112119\bin\Debug\Sorter-k112119.exe.config
+c:\users\unknown\documents\visual studio 2012\Projects\Sorter-k112119\Sorter-k112119\obj\Debug\Sorter-k112119.csprojResolveAssemblyReference.cache
+c:\users\unknown\documents\visual studio 2012\Projects\Sorter-k112119\Sorter-k112119\bin\Debug\Sorter-k112119.exe
+c:\users\unknown\documents\visual studio 2012\Projects\Sorter-k112119\Sorter-k112119\bin\Debug\Sorter-k112119.pdb
+c:\users\unknown\documents\visual studio 2012\Projects\Sorter-k112119\Sorter-k112119\obj\Debug\Sorter-k112119.exe
+c:\users\unknown\documents\visual studio 2012\Projects\Sorter-k112119\Sorter-k112119\obj\Debug\Sorter-k112119.pdb

@@ -1,0 +1,6 @@
+c:\users\unknown\documents\visual studio 2012\Projects\ObserverPatternRightExample\ObserverPatternRightExample\bin\Debug\ObserverPatternRightExample.exe.config
+c:\users\unknown\documents\visual studio 2012\Projects\ObserverPatternRightExample\ObserverPatternRightExample\obj\Debug\ObserverPatternRightExample.csprojResolveAssemblyReference.cache
+c:\users\unknown\documents\visual studio 2012\Projects\ObserverPatternRightExample\ObserverPatternRightExample\bin\Debug\ObserverPatternRightExample.exe
+c:\users\unknown\documents\visual studio 2012\Projects\ObserverPatternRightExample\ObserverPatternRightExample\bin\Debug\ObserverPatternRightExample.pdb
+c:\users\unknown\documents\visual studio 2012\Projects\ObserverPatternRightExample\ObserverPatternRightExample\obj\Debug\ObserverPatternRightExample.exe
+c:\users\unknown\documents\visual studio 2012\Projects\ObserverPatternRightExample\ObserverPatternRightExample\obj\Debug\ObserverPatternRightExample.pdb

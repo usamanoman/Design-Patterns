@@ -1,0 +1,5 @@
+c:\users\unknown\documents\visual studio 2012\Projects\SorterWithQuickSort\SorterWithQuickSort\bin\Debug\SorterWithQuickSort.exe.config
+c:\users\unknown\documents\visual studio 2012\Projects\SorterWithQuickSort\SorterWithQuickSort\bin\Debug\SorterWithQuickSort.exe
+c:\users\unknown\documents\visual studio 2012\Projects\SorterWithQuickSort\SorterWithQuickSort\bin\Debug\SorterWithQuickSort.pdb
+c:\users\unknown\documents\visual studio 2012\Projects\SorterWithQuickSort\SorterWithQuickSort\obj\Debug\SorterWithQuickSort.exe
+c:\users\unknown\documents\visual studio 2012\Projects\SorterWithQuickSort\SorterWithQuickSort\obj\Debug\SorterWithQuickSort.pdb

@@ -1,0 +1,6 @@
+c:\users\unknown\documents\visual studio 2012\Projects\FASTBook-k112119\FASTBook-k112119\bin\Debug\FASTBook-k112119.exe.config
+c:\users\unknown\documents\visual studio 2012\Projects\FASTBook-k112119\FASTBook-k112119\bin\Debug\FASTBook-k112119.exe
+c:\users\unknown\documents\visual studio 2012\Projects\FASTBook-k112119\FASTBook-k112119\bin\Debug\FASTBook-k112119.pdb
+c:\users\unknown\documents\visual studio 2012\Projects\FASTBook-k112119\FASTBook-k112119\obj\Debug\FASTBook-k112119.csprojResolveAssemblyReference.cache
+c:\users\unknown\documents\visual studio 2012\Projects\FASTBook-k112119\FASTBook-k112119\obj\Debug\FASTBook-k112119.exe
+c:\users\unknown\documents\visual studio 2012\Projects\FASTBook-k112119\FASTBook-k112119\obj\Debug\FASTBook-k112119.pdb
