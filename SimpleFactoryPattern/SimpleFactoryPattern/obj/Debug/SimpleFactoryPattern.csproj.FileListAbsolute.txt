@@ -1,0 +1,6 @@
+c:\users\unknown\documents\visual studio 2012\Projects\SimpleFactoryPattern\SimpleFactoryPattern\bin\Debug\SimpleFactoryPattern.exe.config
+c:\users\unknown\documents\visual studio 2012\Projects\SimpleFactoryPattern\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.csprojResolveAssemblyReference.cache
+c:\users\unknown\documents\visual studio 2012\Projects\SimpleFactoryPattern\SimpleFactoryPattern\bin\Debug\SimpleFactoryPattern.exe
+c:\users\unknown\documents\visual studio 2012\Projects\SimpleFactoryPattern\SimpleFactoryPattern\bin\Debug\SimpleFactoryPattern.pdb
+c:\users\unknown\documents\visual studio 2012\Projects\SimpleFactoryPattern\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.exe
+c:\users\unknown\documents\visual studio 2012\Projects\SimpleFactoryPattern\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.pdb
