@@ -1,0 +1,6 @@
+c:\users\unknown\documents\visual studio 2012\Projects\ObserverPTRN\ObserverPTRN\bin\Debug\ObserverPTRN.exe.config
+c:\users\unknown\documents\visual studio 2012\Projects\ObserverPTRN\ObserverPTRN\bin\Debug\ObserverPTRN.exe
+c:\users\unknown\documents\visual studio 2012\Projects\ObserverPTRN\ObserverPTRN\bin\Debug\ObserverPTRN.pdb
+c:\users\unknown\documents\visual studio 2012\Projects\ObserverPTRN\ObserverPTRN\obj\Debug\ObserverPTRN.csprojResolveAssemblyReference.cache
+c:\users\unknown\documents\visual studio 2012\Projects\ObserverPTRN\ObserverPTRN\obj\Debug\ObserverPTRN.exe
+c:\users\unknown\documents\visual studio 2012\Projects\ObserverPTRN\ObserverPTRN\obj\Debug\ObserverPTRN.pdb
